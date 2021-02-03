@@ -6,4 +6,4 @@ Conducted an A/B test for an online apparel site to find the causal relationship
 • Performed difference of means and regression analysis to find the effect of videos and other contributing factors, on excel and R programming using panel regression modelling accounting for fixed effects.     
 • Calculated the combined effect of videos and other promotions on sales of the product using a regression model including the interaction terms for different promotions with videos.    
 
-Refer to Product Video AB Test.pdf for detailed analysis.Refer to Product video code.R for the R code.
+Refer to Product Video AB Test.pdf for detailed analysis.Refer to Product Video Panel Regression.R for the R code.
